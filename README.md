@@ -10,3 +10,12 @@
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+# Table
+name|s.no|vs
+----|----|----
+anush|1|ad
+advfv|2|dv
+vaodkfvn|3|sadv
+afsjv|4|vdvd
+
